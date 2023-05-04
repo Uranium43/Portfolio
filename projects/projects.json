@@ -1,0 +1,53 @@
+[
+  
+  {
+    "name": "Incident Response Management using Machine Learning",
+    "desc": "Studied different ML (Machine Learning) algorithms and checked their efficiency for Incident Response Management. This is one step towards automation of cybersecurity.",
+    "image": "shutterstock_540164155",
+    "category": "Cyber + Data Analytics",
+    "links": {
+      "view": "Link: https://github.com/Uranium43/Incident-Response-using-AI-ML",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Directory Cloaking with Webcam Security",
+    "desc": "Designed python code which will capture a photo of an unauthorized person while accessing our personal Directory and not only help in protecting personal directories but also track the unauthorized user.",
+    "image": "download",
+    "category": "Cyber",
+    "links": {
+      "view": "https://github.com/Uranium43/Directory-Cloaking-with-Webcam-Security",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Auxilium/ Placy",
+    "desc": "Description: Developing a similar website to VTOP for placement purposes. This will be an efficient and user-friendly platform.",
+    "image": "pc4",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Uranium43/placy",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Color Detection for Colour Blind People",
+    "desc": "There are millions of colors but many of the people cannot differentiate them. This is solution to this problem and will help color blind people to recognize different colors.",
+    "image": "maxresdefault",
+    "category": "Data Analytics + Machine Learning",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Common Vulnerabilities in Wireless Mobile Data Exchange",
+    "desc": "Gathered different existing, resolved vulnerabilities, and studied them by CVE’s",
+    "image": "7-Vulnerabilities-In-Android-Applications.png",
+    "category": "Cyber",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
