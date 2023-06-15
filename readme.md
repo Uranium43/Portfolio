@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://ajinkyamahalpure.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
@@ -23,9 +23,9 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jigar-sable/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="[https://www.linkedin.com/in/jigar-sable/](https://www.linkedin.com/in/ajinkya-mahalpure-861771256?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZhj%2BrUaKRBSB5m1Lv%2F9sRA%3D%3D)"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2022 Jigar Sable
+© 2023 Ajinkya Mahalpure
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/modified-with-love.svg)](https://forthebadge.com)
