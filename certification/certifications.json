@@ -1,13 +1,48 @@
 [
   
   {
-    "name": "",
-    "desc": "Studied different ML (Machine Learning) algorithms and checked their efficiency for Incident Response Management. This is one step towards automation of cybersecurity.",
+    "name": "Google Data Analytics",
+    "desc": "Studied eight different courses on Coursera related to Data Analytics offered by Google.",
     "image": "shutterstock_540164155",
-    "category": "Cyber + Data Analytics",
+    "category": "Data Analytics",
     "links": {
-      "view": "Link: https://github.com/Uranium43/Incident-Response-using-AI-ML",
-      "code": "#"
+      "view": "https://drive.google.com/file/d/1w7OMD94Q3ITycjQt8_H4fbEVCuTm4h1y/view?usp=drive_link",
+    }
+  },
+    {
+    "name": "Data Science",
+    "desc": "Data Science course on Futureskills Prime platform offered by Boards Infinity.",
+    "image": "shutterstock_540164155",
+    "category": "Data Analytics",
+    "links": {
+      "view": "https://drive.google.com/file/d/1ct8FuDewUjcFdrhykrxmJUTWl1z33PWR/view?usp=drive_link",
+    }
+  },
+    {
+    "name": "Fundamnentals of Data Analytics",
+    "desc": "Data Anaytics course on Futureskills Prime platform offered by Leaps Analyttica.",
+    "image": "shutterstock_540164155",
+    "category": "Data Analytics",
+    "links": {
+      "view": "https://drive.google.com/file/d/1AYi2HuH9NWAf2_jo0rQZcx0BEajEjnFa/view?usp=drive_link",
+    }
+  },
+    {
+    "name": "Introduction to Cybersecurity",
+    "desc": "Cybersecurity course on skillsforall platform offered by CISCO",
+    "image": "shutterstock_540164155",
+    "category": "Cybersecurity",
+    "links": {
+      "view": "https://drive.google.com/file/d/1lztRUaXqB7w2DP0k3BtsscNqmMrUGD3r/view?usp=drive_link",
+    }
+  },
+   {
+    "name": "Junior Cybersecurity Analyst",
+    "desc": "Cybersecurity Pathway for Junior Cybersecurity Analyst pathway on skillsforall platform offered by CISCO",
+    "image": "shutterstock_540164155",
+    "category": "Cybersecurity",
+    "links": {
+      "view": "https://drive.google.com/file/d/1KWXuTpvj_W6aWc2hBLP5qJUCVgwX40j0/view?usp=drive_link",
     }
   },
 
